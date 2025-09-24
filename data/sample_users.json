@@ -1,0 +1,14 @@
+[
+  {
+    "email": "user1@example.com",
+    "full_name": "Alice Smith",
+    "age": 30,
+    "location": "New York"
+  },
+  {
+    "email": "user2@example.com",
+    "full_name": "Bob Johnson",
+    "age": 45,
+    "location": "Los Angeles"
+  }
+]

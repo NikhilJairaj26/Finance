@@ -1,0 +1,6 @@
+user_id,date,category,amount,description,income,age,location,spending_pattern
+user1@example.com,2023-10-01,Groceries,50.00,Supermarket purchase,5000,30,New York,frequent
+user1@example.com,2023-10-01,Transport,20.00,Subway pass,5000,30,New York,moderate
+user1@example.com,2023-10-02,Dining,30.00,Lunch with friends,5000,30,New York,frequent
+user2@example.com,2023-10-01,Bills,100.00,Electricity bill,8000,45,Los Angeles,regular
+user2@example.com,2023-10-02,Gas,40.00,Gas for car,8000,45,Los Angeles,regular

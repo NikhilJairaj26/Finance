@@ -1,0 +1,12 @@
+user_id,date,category,amount,description,income,age,location,spending_pattern
+user1@example.com,2023-01-05,Groceries,75.50,Weekly groceries,5000,30,New York,frequent
+user1@example.com,2023-01-08,Entertainment,45.00,Movie tickets,5000,30,New York,moderate
+user1@example.com,2023-01-12,Groceries,80.25,Stocking up,5000,30,New York,frequent
+user1@example.com,2023-01-15,Dining,60.00,Dinner with family,5000,30,New York,frequent
+user1@example.com,2023-01-20,Transport,30.00,Monthly metro card,5000,30,New York,regular
+user2@example.com,2023-01-03,Bills,150.00,Internet and Cable,8000,45,Los Angeles,regular
+user2@example.com,2023-01-10,Gas,50.00,Filling up the car,8000,45,Los Angeles,regular
+user2@example.com,2023-01-18,Shopping,200.00,New clothes,8000,45,Los Angeles,occasional
+user2@example.com,2023-01-25,Groceries,120.00,Weekly groceries,8000,45,Los Angeles,frequent
+user2@example.com,2023-01-28,Dining,80.00,Dinner date,8000,45,Los Angeles,moderate
+# ... add thousands more records for effective model training
