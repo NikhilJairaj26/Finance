@@ -86,3 +86,7 @@ The `scripts` directory contains several useful scripts:
 - `check_user.py`: A script to check user details.
 - `list_users.py`: Lists all users in the database.
 - `test_prediction.py`: Tests the expense prediction model.
+ 
+Made by NJ
+
+~MIT License
